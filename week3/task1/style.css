@@ -1,0 +1,64 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: 
+#f2f2f2;
+  background-image: url(https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg) ;
+}
+button {
+  background-color: 
+deeppink;
+  color: 
+white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+button:hover {
+  background-color: 
+black;
+  color: 
+white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+.container
+{
+  margin: auto;
+  width: 50%;
+  border: 3px solid 
+deeppink;
+  padding: 50px;
+  background-color: 
+#fff;
+  color: 
+#000;
+}
+.container h2
+{
+  text-align: center;
+}
+.container img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+input, select
+{
+  width: 100%;
+  border: 3px solid 
+orangered;
+  padding: 15px 20px;
+  margin: 10px 0;
+  box-sizing: border-box;
+}
+a:hover{
+  color:orangered;
+}
